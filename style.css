@@ -1,0 +1,55 @@
+header {
+    background-color: #f4f4f4;
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: #fc5721;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+.aboutpage {
+    background-image: url(https://img.freepik.com/premium-vector/futuristic-abstract-background_193066-476.jpg?w=1380);
+    justify-content: center;
+    text-align: center;
+    color: #fdfdfd;
+    padding: 10px 0px;
+    align-items: center;
+}
+
+.onemore {
+    color: #fc5721;
+    background-color: #f4f4f4;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+}
+.dialogue-box {
+    border-radius: 5px;
+    background-color: #f1f1f1;
+    box-shadow: 0 8px 10px rgba(0, 0, 0, 0.1);
+}
+
+.dialogue-box2 {
+    border-radius: 5px;
+    background-color: #fc5721;
+    box-shadow: 0 8px 10px rgba(0, 0, 0, 0.1);
+}
+
+.btn {
+    background-color: #656565;
+    color: #ffff;
+    border-radius: 5px;
+}
+
+.btn2 {
+    background-color: #ffff;
+    color: black;
+    border-radius: 5px;
+    border: none;
+    font-weight: 600;
+}
